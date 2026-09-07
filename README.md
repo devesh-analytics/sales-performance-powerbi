@@ -63,7 +63,7 @@ Based on the dashboard analysis:
 
 ## 📷 Dashboard Preview
 
-![Sales Performance Dashboard](./sales_dashboard.png)
+![Sales Performance Dashboard](./Screenshot%202026-09-07%20192235.png)
 
 ## 📁 Project Files
 
