@@ -69,9 +69,9 @@ Based on the dashboard analysis:
 
 | File | Description |
 |---|---|
-| `Sales_Performance_Dashboard.pbix` | Power BI dashboard file |
-| `sales_data.xlsx` | Dataset used for the analysis |
-| `sales_dashboard.png` | Dashboard preview |
+| [Power BI Dashboard](./sales_performance_dashboard.pbix) | Interactive Power BI dashboard |
+| [Sales Dataset](./sales%20dataset.xlsx) | Excel dataset used for the analysis |
+| [Dashboard Screenshot](./sales_dashboard.png) | Dashboard preview |
 
 ## 💡 Business Value
 
