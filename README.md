@@ -73,6 +73,10 @@ Based on the dashboard analysis:
 | [📁 Sales Dataset](./sales%20dataset.xlsx) | Download the Excel dataset used for analysis |
 | [🖼️ Dashboard Screenshot](./sales_dashboard.png) | View dashboard preview |
 
+## 📄 Case Study
+
+[View Sales Performance Analysis Case Study](./sales_performance_case_study.pdf)
+
 ## 💡 Business Value
 
 The dashboard converts raw sales data into an easy-to-understand visual report, helping users identify sales patterns, compare performance across different segments, and support data-driven business decisions.
